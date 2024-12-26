@@ -12,7 +12,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Device Information",
+  title: "Your Device Information",
   description: "Display comprehensive device and browser information. developed by @sahinurdev",
 };
 

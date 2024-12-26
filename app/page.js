@@ -7,7 +7,7 @@ export default function Home() {
 
       {/* Header */}
       <header className="bg-blue-600 text-white py-4">
-        <h1 className="text-center text-3xl font-bold">Device Info App</h1>
+        <h1 className="text-center text-3xl font-bold">Your Device Info</h1>
       </header>
 
       {/* Main Content */}
@@ -17,7 +17,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-4">
-        <p className="text-center">&copy; {new Date().getFullYear()} Device Info App</p>
+        <p className="text-center">&copy; {new Date().getFullYear()} Your Device Info</p>
       </footer>
     </div>
   );
