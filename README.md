@@ -71,4 +71,4 @@ Follow these instructions to set up and run the project locally.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/deviceinfo.git
+   git clone https://github.com/devSahinur/device-info-app.git
