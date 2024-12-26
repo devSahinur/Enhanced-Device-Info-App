@@ -11,17 +11,6 @@
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
    - [Running the Development Server](#running-the-development-server)
-6. [Usage](#usage)
-   - [Searching Device Information](#searching-device-information)
-   - [Downloading JSON](#downloading-json)
-   - [Downloading PDF](#downloading-pdf)
-   - [Fetching Clipboard Data](#fetching-clipboard-data)
-7. [Project Structure](#project-structure)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Contact](#contact)
-11. [Additional Resources](#additional-resources)
-12. [Troubleshooting](#troubleshooting)
 
 ---
 
