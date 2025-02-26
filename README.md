@@ -7,7 +7,7 @@
 2. [Features](#features)
 3. [Demo](#demo)
 4. [Technologies Used](#technologies-used)
-5. [Getting Started](#getting-started)
+5. [Getting Started](#getting-started) 
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
    - [Running the Development Server](#running-the-development-server)
