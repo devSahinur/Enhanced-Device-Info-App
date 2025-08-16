@@ -305,10 +305,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Sahinur Rahman**
+**Sahinur**
 - GitHub: [@devSahinur](https://github.com/devSahinur)
 - Website: [sahinur.dev](https://sahinur.dev)
-- Email: sahinurdev@gmail.com
+- Email: infosahinur@gmail.com
 
 ---
 
@@ -340,6 +340,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ⭐ Star this repository if you found it helpful!
 
-**Built with ❤️ by [Sahinur Rahman](https://github.com/devSahinur)**
+**Built with ❤️ by [Sahinur](https://github.com/devSahinur)**
 
 </div>
