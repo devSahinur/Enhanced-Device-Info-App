@@ -60,7 +60,7 @@ A comprehensive, real-time device information and performance monitoring applica
 
 ## 🚀 Demo
 
-![Enhanced Device Info App](./public/page.png)
+![Enhanced Device Info App](https://i.ibb.co.com/W4cmZVC9/page.png)
 
 ### Key Highlights:
 - 🔴 **Real-time monitoring** with live performance charts
